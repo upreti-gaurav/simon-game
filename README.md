@@ -20,3 +20,5 @@ Level 4 : RED
 
 To pass level 4 :
 You need to click YELLOW-RED-GREEN-RED .
+
+visit the site at https://upreti-gaurav.github.io/simon-game/
